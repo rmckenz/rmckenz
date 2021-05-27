@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @rmckenz. I'm a engineering physics and biomedical engineering student at McMaster University.
+- 👀 I’m interested in improving my overall programming skills, and implementing my work into mechatronics design
+- 🌱 I’m currently learning Java and C# + WinForms
+- 📫 How to reach me by email: mckenr1@mcmaster.ca
